@@ -20,9 +20,11 @@ The main objectives of this project are:
 ---
 
 ## Data Sources
-1. **InSAR Vertical Displacement Raster**  
+> ⚠️ **Note on Datasets:** Due to file size limitations on GitHub (>25MB), the raw raster datasets (`.tif`) for **DEMNAS** and **InSAR** are processed locally and are not included directly in this repository. All processed outputs and figures remain fully accessible.
+
+1. **InSAR Vertical Displacement Raster** (Processed Locally)
    Primary dataset representing land subsidence rates derived from satellite-based Interferometric Synthetic Aperture Radar (InSAR).
-2. **DEMNAS**  
+2. **DEMNAS** (Processed Locally)
    Digital Elevation Model Nasional (DEMNAS) used to incorporate topographic conditions into subsidence risk assessment.
 3. **RBI Land Use Data**  
    Indonesian topographic map data (*Rupa Bumi Indonesia*) used to classify land use and compare subsidence among different land-use categories.
@@ -30,7 +32,6 @@ The main objectives of this project are:
    District (*kecamatan*) boundaries used for spatial aggregation and statistical analysis.
 5. **Groundwater Monitoring Well Data**  
    Time-series groundwater level measurements (*sumur pantau*) used to assess groundwater decline and its correlation with land subsidence.
-
 ---
 
 ## Project Outputs
