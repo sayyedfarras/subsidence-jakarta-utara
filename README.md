@@ -86,7 +86,6 @@ The analysis demonstrates that land subsidence in North Jakarta is spatially het
 
 ## Author
 * **Sayyed Farras Mahmud**
-* Specialization: Geology & Geological Engineering
 
 ## License
 This project is released under the **MIT License**. Feel free to use, modify, and distribute the code with proper attribution.
