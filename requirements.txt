@@ -1,10 +1,9 @@
-numpy
-pandas
-matplotlib
-geopandas
+os
+geopandas 
 rasterio
-rioxarray
-xarray
-shapely
-scipy
+matplotlib.pyplot 
+pandas 
+numpy 
+fiona
+zipfile
 gdown
