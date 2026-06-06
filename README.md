@@ -73,10 +73,11 @@ This project was developed using:
 * `pandas`
 * `geopandas`
 * `rasterio`
-* `rasterstats`
+* `os`
 * `matplotlib`
-* `seaborn`
-* `shapely`
+* `fiona`
+* `gdwon`
+* `zipfile`
 
 ---
 
